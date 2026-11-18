@@ -1,0 +1,26 @@
+.profileCard {
+    height: 50vh;
+    width: 15vw;
+    border: 2px solid rgb(60, 60, 60);
+    border-radius: 20px;
+    margin: 6vh auto;
+    padding: 30px;
+    box-shadow: 0 2px 10px rgba(92, 91, 91, 0.647);
+}
+
+.profileCard img {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.profileCard h3 {
+    color: black;
+    font-weight: bold;
+}
+
+.profileCard p {
+    color: rgb(73, 72, 72);
+}

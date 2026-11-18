@@ -1,0 +1,29 @@
+.button {
+    padding: 5px 10px;
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 25px;
+
+}
+
+.button:hover {
+    filter: brightness(85%);
+}
+
+.button:focus {
+    outline: 2px solid black;
+}
+
+.friend {
+    box-shadow: 0 0px 6px rgba(71, 241, 71, 0.7);
+    background-color: rgb(71, 241, 71);
+}
+
+.teacher {
+    box-shadow: 0 0px 6px rgba(78, 78, 240, 0.7);
+    background-color: rgb(78, 78, 240);
+}
+
+.student {
+    box-shadow: 0 0px 6px rgba(249, 83, 249, 0.7);
+    background-color: rgb(249, 83, 249);
+}
